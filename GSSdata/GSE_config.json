@@ -1,0 +1,16 @@
+{
+    "NORAD": 25544,
+    "LAT": 37.13,
+    "LONG": 140.77,
+    "ALT": 76,
+    "MODE": {
+        "FREQ_AUTO": 1,
+        "ROT_AUTO": 1
+    },
+    "MANUAL": {
+        "UP_FREQ": 121.8,
+        "DOWN_FREQ": 125.7,
+        "ELEV": 39572.5,
+        "AZ": 50.9
+    }
+}
